@@ -1,4 +1,8 @@
 # Thiago Ferreira
 
-Página pessoal que descreve brevemente minha trajetória, proporciona o acesso a projetos 
-pessoais e exibe meu currículo.
+Página web contendo minha descrição breve, trajetória, proporciona o acesso a projetos 
+pessoais e exibe meu currículo.<br>
+<br>
+A página pode ser acessada em<br>
+
+
